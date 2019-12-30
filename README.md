@@ -13,12 +13,15 @@ Fai attenzione a usare la cartella della versione corretta. Quando si aggiorna A
 
 #### `def` ####
 
-Questo live template è molto comodo per organizzare il codice di implementazione delle classi in modo coerente. Basta cominciare a digitare `def` e il live template proporrà le `//region` per raggruppare il codice in maniera ordinata
+Questo live template è molto comodo per organizzare il codice di implementazione delle classi Java in modo coerente. Basta cominciare a digitare `def` e il live template proporrà le `//region` per raggruppare il codice in maniera ordinata
 
 ![def_androidstudio_live_templates](http://cl.ly/image/1G2M2y1f3y0S/animation.gif)
 
 
 #### `tag` ####
 
-Questio live template serve a definire la costante di classe `TAG` da poter utilizzare nei metodi `Log.`. Comincia a scrivere `tag` e ti verrà proposto solo di inserire il nome della classe attuale.
+Questo live template serve a definire la costante di classe `TAG` da poter utilizzare nei metodi `Log.`. Comincia a scrivere `tag` e ti verrà proposto solo di inserire il nome della classe attuale.
 
+#### `mark` ####
+
+Questo live template è molto comodo per organizzare il codice di implementazione delle classi Kotlin in modo coerente. Basta cominciare a digitare `mark` e il live template proporrà le `//region` per raggruppare il codice in maniera ordinata
